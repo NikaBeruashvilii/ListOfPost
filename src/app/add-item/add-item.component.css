@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #a0d9ff;
+}
+
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  td {
+    padding-right: 8px;
+  }
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+  }
+  section {
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  .btn-div {
+    padding-left: 50px;
+  }
+  .btn-div-2 {
+    padding-right: 50px;
+  }
+  .main-container {
+    background: #a0d9ff;
+    max-height: 100%;
+  }
